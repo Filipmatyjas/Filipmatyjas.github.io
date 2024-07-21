@@ -13,3 +13,8 @@ Podstawy informatyki
 
 
 **Przyswoj sobie podstawy teorii informacji i kryptografii**
+
+_config.yml
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme #
