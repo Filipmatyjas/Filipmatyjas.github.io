@@ -7,7 +7,7 @@ Podstawy informatyki
 - Python
 - Java
 - C++ 
--  JavaScript.
+-  JavaScript
 
-**Zrozum algorytmy i struktury danych. To kluczowe dla efektywnego rozwiązywania problemów**/
-**Przyswoj sobie podstawy teorii informacji i kryptografii**/
+**Zrozum algorytmy i struktury danych. To kluczowe dla efektywnego rozwiązywania problemów**
+**Przyswoj sobie podstawy teorii informacji i kryptografii**
